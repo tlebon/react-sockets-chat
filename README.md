@@ -1,7 +1,8 @@
-## Fibbage boilerplate Application using React, Express, socket.io, Node.js
+## Chat Application using React, Express, socket.io, Node.js
+
 ### It allows multiple users to chat in a same room in real time.
 
-## testing push to herokuu
+## forked from another repo, just trying to get it fixed up so its a nice base for someone to use. 
 
 <br></br>
 
